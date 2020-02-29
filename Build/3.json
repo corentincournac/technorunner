@@ -1,7 +1,7 @@
 {
-"companyName": "DefaultCompany",
-"productName": "ProceduralShoot",
-"productVersion": "0.1",
+"companyName": "Corentin Cournac",
+"productName": "TechnoRunner",
+"productVersion": "Alpha 1.0",
 "dataUrl": "3.data.unityweb",
 "wasmCodeUrl": "3.wasm.code.unityweb",
 "wasmFrameworkUrl": "3.wasm.framework.unityweb",
